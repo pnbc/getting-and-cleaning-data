@@ -17,6 +17,7 @@ fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequ
 
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+For more information on measurements please refer to the original dataset description http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 For each subject and type of activity, each column represents a mean of the measurement, for example value of the columm tBodyAcc-mean()-X 
 for row 
